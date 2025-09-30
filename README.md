@@ -4,7 +4,7 @@
 
 ###Membuat Array dan List
   Pada bagian ini anda akan mencoba untuk menuliskan Array dan List kemudian menampilkannya dengan menggunakan looping. Berikut ini merupakan langkah-langkah yang dilakukan:
-#### 1. Langkah pertama silahkan tulis kode program berikut ini:
+## 1. Langkah pertama silahkan tulis kode program berikut ini:
 
 ```
 fun main() {
@@ -22,7 +22,7 @@ OUTPUT
 
 
 
-#### 2. menampilkan looping pada program diatas.
+## 2. Menampilkan Looping Pada Program Diatas.
 
 ```
 fun main() {
@@ -54,7 +54,7 @@ OUTPUT
 ### Membuat Konstruktor pada Class
 Pada bagian ini anda akan mencoba untuk menuliskan Konstruktor pada Class dan menambahkan setter-getter didalamnya. Berikut ini merupakan langkah-langkah yang dilakukan:
 
-#### 1. Langkah pertama silahkan tulis kode program berikut ini:
+## 1. Langkah pertama silahkan tulis kode program berikut ini:
 
 ```
 class Aquarium (var length: Int = 100, var width: Int = 20, var height: Int = 40) {
@@ -79,7 +79,7 @@ OUTPUT
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/ed80e336-67d4-43e6-85b8-f53ea5e278c1" />
 
 
-#### 2. Langkah selanjutnya kita akan menambahkan konstruktor dengan cara lain yakni menggunakan constructor seperti program dibawah ini.
+## 2. Langkah selanjutnya kita akan menambahkan konstruktor dengan cara lain yakni menggunakan constructor seperti program dibawah ini.
 
 ```
 class Aquarium (var length: Int = 100, var width: Int = 20, var height: Int = 40) {
@@ -109,7 +109,7 @@ OUTPUT
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/91f5d4fc-6a5e-4f4f-b803-1293869076f1" />
 
 
-#### 3. Langkah selanjutnya kita akan menambahkan setter-getter seperti program dibawah ini:
+## 3. Langkah selanjutnya kita akan menambahkan setter-getter seperti program dibawah ini:
 
 ```
 class Aquarium (val length: Int = 100, val width: Int = 20, var height: Int = 40) {
@@ -168,12 +168,12 @@ OUTPUT
 
 ## Modul 2: Menjalankan aplikasi pada Device Android
 
-#### 1. Langkah Pertama
+## 1. Langkah Pertama
 butki pengerjaan:
 <img width="1351" height="864" alt="image" src="https://github.com/user-attachments/assets/62c3b2a7-15fe-467d-9edb-bff0ce31aef4" />
 
 
-#### 2. Langkah Selanjutnya
+## 2. Langkah Selanjutnya
 bukti pengerjaan:
 <img width="1351" height="864" alt="image" src="https://github.com/user-attachments/assets/82e17ac9-3381-4ffc-a36a-01ee3d1b32b5" />
 
