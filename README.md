@@ -17,7 +17,9 @@ fun main() {
 }
 ```
 OUTPUT
-<img width="677" height="686" alt="Screenshot 2025-09-23 214551" src="https://github.com/user-attachments/assets/5a5d226c-9fdf-4190-9f30-7075287cdeb2" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/8cb15b3a-7efe-4440-aa58-8ff5dcabcc29" />
+
+
 
 
 #### 2. menampilkan looping pada program diatas.
@@ -45,7 +47,8 @@ fun main() {
 ```
 
 OUTPUT
-<img width="683" height="709" alt="image" src="https://github.com/user-attachments/assets/3383f90d-dba9-47ce-86b4-1264adff3fca" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/f19ac366-3a2c-4f32-a3bf-db9822d1f02b" />
+
 
 
 ### Membuat Konstruktor pada Class
@@ -73,7 +76,8 @@ fun main() {
 ```
 
 OUTPUT
-<img width="676" height="745" alt="image" src="https://github.com/user-attachments/assets/67667ea3-fb0e-4028-ae62-9a25028ffaea" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/ed80e336-67d4-43e6-85b8-f53ea5e278c1" />
+
 
 #### 2. Langkah selanjutnya kita akan menambahkan konstruktor dengan cara lain yakni menggunakan constructor seperti program dibawah ini.
 
@@ -102,7 +106,8 @@ class Aquarium (var length: Int = 100, var width: Int = 20, var height: Int = 40
 ```
 
 OUTPUT
-<img width="664" height="767" alt="image" src="https://github.com/user-attachments/assets/06a2b45c-b644-4490-90dc-4d5b04d7f60b" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/91f5d4fc-6a5e-4f4f-b803-1293869076f1" />
+
 
 #### 3. Langkah selanjutnya kita akan menambahkan setter-getter seperti program dibawah ini:
 
@@ -158,30 +163,33 @@ class Aquarium (val length: Int = 100, val width: Int = 20, var height: Int = 40
 ```
 
 OUTPUT
-<img width="666" height="767" alt="image" src="https://github.com/user-attachments/assets/4f6d642c-7956-45d6-bcd8-28b6f4c6922e" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/388e7ea8-6454-4cc7-b318-0ee60efe7c53" />
+
 
 ## Modul 2: Menjalankan aplikasi pada Device Android
 
-#### 1. mebuat
-butki
-<img width="905" height="612" alt="Screenshot 2025-09-23 222939" src="https://github.com/user-attachments/assets/8c62e3d0-244e-4b80-b53b-03d235cd8281" />
+#### 1. Langkah Pertama
+butki pengerjaan:
+<img width="1351" height="864" alt="image" src="https://github.com/user-attachments/assets/62c3b2a7-15fe-467d-9edb-bff0ce31aef4" />
 
-#### 2. Buat file
-bukti
-<img width="907" height="609" alt="Screenshot 2025-09-23 223110" src="https://github.com/user-attachments/assets/02b8161a-3510-4199-b520-8661ba2246e0" />
+
+#### 2. Langkah Selanjutnya
+bukti pengerjaan:
+<img width="1351" height="864" alt="image" src="https://github.com/user-attachments/assets/82e17ac9-3381-4ffc-a36a-01ee3d1b32b5" />
+
 
 ## Modul 3: Mengenal struktur proyek pada pembuatan aplikasi Android
 
-Di dalam modul ini saya belajar untuk mengenal struktur proyek pada pembuatan aplikasi android yaitu :
-1. Resources: layouts, images, strings, colors as XML dan media files
-2. Components: activities, services, dan helper classes dengan menggunakan bahasa Java/Kotlin
-3. Manifest: Informasi terkait setting/ runtime pada apps
-4. Build configuration: APK versions yang di setting pada konfigurasi Gradle
+Di dalam modul ini saya belajar mengenal struktur proyek Android yaitu:
+1. Resources (layout, gambar, string, warna, media)
+2. Components (activities, services, helper classes)
+3. Manifest (informasi setting/runtime)
+4. Build configuration (APK version di Gradle)
 
 ## Modul 4: Mencatat Log pada aplikasi Android
 
-Dalam modul ini saya belajar untuk mencatat log pada android atau belajar untuk menampilkan emulator android pada android studio
+Dari modul ini saya belajar cara menggunakan Logcat untuk menampilkan log dengan kode Log.d("Tag","Pesan") agar bisa memantau jalannya aplikasi.
 
 ## Modul 5: Membuat Interactive UI dengan View
 
-dalam modul ini saya jadi mengetahui cara membuat proyek baru dalam contoh pada modul di proyek ini di beri nama "Hello Toast".
+Dari modul ini saya jadi mengetahui cara membuat proyek baru dalam contoh pada modul di proyek ini di beri nama "helloFellas".
